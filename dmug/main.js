@@ -33,7 +33,7 @@ $(document).ready(function(){
     });
 
     // toggle menu/navbar script
-    $('.menu-btn').click(function(){
+    $('#menu-btn-bar').click(function(){
    //     $('.navbar .menu').toggleClass("active");
         $('#nav-bar-icon').toggleClass("active");
     });
